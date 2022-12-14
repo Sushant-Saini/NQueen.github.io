@@ -1,6 +1,6 @@
 # NQueen.github.io
 
-Project Subitted By:-
+Project Submitted By:-
 
 Sushant Saini
 101917157
