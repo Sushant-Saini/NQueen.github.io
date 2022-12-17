@@ -2,9 +2,9 @@
 # TITLE : N-Queen Problem Solver
 
 Project Submitted By:-
-Sushant Saini
-101917157
-Batch CSE6
+<br>Sushant Saini
+<br>101917157
+<br>Batch CSE6
 
 ## 1.Methodology
 User enters the Number of Queens i.e. N and Then the N X N chess board is displayed depicting various permutations such that no two queens attack each other
@@ -16,7 +16,7 @@ This is a web based application created using HTML, CSS, Javscript and Backtrack
 ## 3.Input/Output
 
 Input : No. of Queens
-Ouptut : All Possible Permutations
+<br>Ouptut : All Possible Permutations
 
 ## 4.Live Link
 Link : https://sushant-saini.github.io/NQueen.github.io/
